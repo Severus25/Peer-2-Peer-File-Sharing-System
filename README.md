@@ -1,6 +1,3 @@
-```
-Made by Abhijai Rajawat
-```
 # Peer-to-Peer Group Based File Sharing System
 
 ## Prerequisites
@@ -147,9 +144,6 @@ show_downloads
 stop_share ​<group_id> <file_name>
 ```
 
-```
-Made by Abhijai Rajawat
-```
 ## Working
 
 1. User should create an account and register with tracker.
